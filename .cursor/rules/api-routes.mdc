@@ -1,7 +1,7 @@
 ---
-description: Guidelines for implementing Next.js API routes
+description: 
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 # API Routes
 
